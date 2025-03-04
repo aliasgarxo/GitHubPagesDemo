@@ -13,3 +13,5 @@ This page explains how version control helps manage documentation updates.
 ## Free Hosting
 - GitHub Pages provides free hosting for documentation.
 - Supports Markdown and Jekyll for easy site management.
+
+## Thank you
